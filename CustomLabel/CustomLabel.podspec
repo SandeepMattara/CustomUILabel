@@ -7,6 +7,8 @@
 #
 
 Pod::Spec.new do |s|
+  s.platform     = :ios, "9.0"
+  s.ios.deployment_target = "9.0"
   s.name             = 'CustomLabel'
   s.version          = '0.1.0'
   s.summary          = 'A short description of CustomLabel.'
