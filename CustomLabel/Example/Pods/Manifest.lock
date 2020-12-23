@@ -1,0 +1,27 @@
+PODS:
+  - CustomLabel (0.1.0)
+  - Nimble (8.0.9)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - CustomLabel (from `../`)
+  - Nimble (~> 8.0.7)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  CustomLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomLabel: e8ce7630f3e3c02ea71d502eb4ecbe18b2937459
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: 17f3cb4cf7bd6e688e102d5945b9b91402cf16cb
+
+COCOAPODS: 1.9.3

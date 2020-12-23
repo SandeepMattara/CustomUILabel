@@ -1,0 +1,6 @@
+framework module CustomLabel {
+  umbrella header "CustomLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
