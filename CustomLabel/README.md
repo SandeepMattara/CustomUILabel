@@ -1,6 +1,6 @@
 # CustomLabel
 
-[![CI Status](https://img.shields.io/travis/Hung Vu/CustomLabel.svg?style=flat)](https://travis-ci.org/Hung Vu/CustomLabel)
+[![CI Status](https://img.shields.io/travis/SandeepMattara/CustomLabel.svg?style=flat)](https://travis-ci.org/SandeepMattara/CustomLabel)
 [![Version](https://img.shields.io/cocoapods/v/CustomLabel.svg?style=flat)](https://cocoapods.org/pods/CustomLabel)
 [![License](https://img.shields.io/cocoapods/l/CustomLabel.svg?style=flat)](https://cocoapods.org/pods/CustomLabel)
 [![Platform](https://img.shields.io/cocoapods/p/CustomLabel.svg?style=flat)](https://cocoapods.org/pods/CustomLabel)
@@ -22,7 +22,7 @@ pod 'CustomLabel'
 
 ## Author
 
-Hung Vu, vickyhtconex@gmail.com
+SandeepMattara, SandeepMattara@gmail.com
 
 ## License
 
